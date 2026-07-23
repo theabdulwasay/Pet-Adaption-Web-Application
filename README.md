@@ -144,3 +144,11 @@ This project is configured for **local development**. Before deploying:
 ---
 
 Made with 🐕 for animal lovers everywhere.
+<img width="1565" height="817" alt="image" src="https://github.com/user-attachments/assets/c6565373-3ed9-4630-bdc0-9976f60758b2" />
+<img width="1066" height="821" alt="image" src="https://github.com/user-attachments/assets/d1cd01b2-9d69-4bc4-a94e-cdb1b3ddb861" />
+<img width="1139" height="300" alt="image" src="https://github.com/user-attachments/assets/60963f3f-8515-47c7-86fc-536a63bc2ea0" />
+<img width="768" height="771" alt="image" src="https://github.com/user-attachments/assets/fbab2f0f-c508-45c1-9854-ff14e815550b" />
+
+
+
+
